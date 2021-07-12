@@ -1,0 +1,21 @@
+{
+  "name": "sequelize-practice-restaurant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "jest",
+    "test:report": "jest --coverage=true"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:report": "jest --coverage=true"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.0.6",
+    "sequelize": "^6.6.5",
+    "sqlite3": "^5.0.2"
+  }
+}
